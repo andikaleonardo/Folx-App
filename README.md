@@ -1,4 +1,10 @@
 # Folx-App for iOS
+
+<div align="center">
+<img width="1000" height="700" src="gitHeader.png">
+<a href="https://andikaleonardo.com" target="blank"><code>andikaleonardo.com</code></a>
+</div>
+
 Face Recognition application
 ## Description
 
