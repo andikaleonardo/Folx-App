@@ -1,7 +1,7 @@
 # Folx-App for iOS
 
 <div align="center">
-<img width="1000" height="700" src="gitHeader.png">
+<img width="700" height="385" src="gitHeader.png"><br>
 <a href="https://andikaleonardo.com" target="blank"><code>andikaleonardo.com</code></a>
 </div>
 
